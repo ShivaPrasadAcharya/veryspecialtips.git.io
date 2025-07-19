@@ -1,9 +1,9 @@
 // data3Links.js - Links Dataset
 var data3Links = `ID,Subject,Remark,Link
-001, Training Schedule(Asar 8-18 2082),word document,document.docx
-002, Training Schedule(Asar 8-18 2082),pdf document,document.pdf
-
-  
+001a, Common Sankrit Phrases,Html document,SanskritPhrases.html
+001b, Common Sankrit Phrases,Pdf document,SanskritPhrases.pdf
+001c, Common Sankrit Phrases,Word document,SanskritPhrases.docx
+ 
  `;
 // Dataset metadata
 var data3LinksInfo = {
