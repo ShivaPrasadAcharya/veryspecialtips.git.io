@@ -308,7 +308,7 @@ function loadUserPreferences() {
         // Note: Since localStorage is not available in this environment,
         // we'll use a simple in-memory preference system
         window.userPreferences = {
-            lastUsedDataset: 'data1Trainees',
+            lastUsedDataset: 'data1Officers',
             searchHistory: [],
             preferredTheme: 'default',
             accessibilityMode: false
