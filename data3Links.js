@@ -1,8 +1,8 @@
 // data3Links.js - Links Dataset
 var data3Links = `ID,Subject,Remark,Link
-001a, Common Sankrit Phrases,Html document,SanskritPhrases.html
-001b, Common Sankrit Phrases,Pdf document,SanskritPhrases.pdf
-001c, Common Sankrit Phrases,Word document,SanskritPhrases.docx
+001a, Phrases for PSC,Html document,PhrasesforPSC.html
+001b, Phrases for PSC,Pdf document,PhrasesforPSC.pdf
+001c,Phrases for PSC,Word document,PhrasesforPSC.docx
  
  `;
 // Dataset metadata
